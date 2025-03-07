@@ -23,7 +23,3 @@ if __name__ == "__main__":
     cart.display_cart()
     print(f"Total Cart Value: {cart.total_cart_value()}")
 
-
-    
-    
-    
